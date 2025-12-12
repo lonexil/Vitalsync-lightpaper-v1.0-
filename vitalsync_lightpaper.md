@@ -5,4 +5,9 @@ Vital sync is a decentralized self optimization protocol designed to enhance ind
 
 ## Problem statement 
 Existinng wellness apllication and programs faces several limitations;
-- **centralized data control**
+- **centralized data control** with limited transparency and user ownership 
+- **Declining long term engagement** due to lack of meanignful incentives 
+- **Unverified selfreported habits** reducing trust and accuracy 
+- **limited intelligent feedback** preventing continuous behavioral improvement
+
+Vitalsync adresses these deficiencies by combining decentralized infrastructure with token incentives and AI driven analysis .
