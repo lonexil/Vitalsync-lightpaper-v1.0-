@@ -60,4 +60,38 @@ The reward mecahnis, is transparent and fully auditable.
 
 ## 5. Architecture overview
 
+# 5.1 Frontend client provide acess to:
+- Daily check-ins
+- Analytics dashboard
+- Streak history
+- Token rewards
+- Mode selections
 
+
+## 5.2 Smart contract suite implements
+- Habit verification
+- Timestamp checking
+- Score computation
+- Reward minting and Distribution
+- streak and milestone logic
+
+## 5.3 Decentralized storage layer stores
+- Daily habit logs
+- check-in proofs
+- Long-term progress records
+- Hashed generated insighs
+
+## 5.4 AI analysis engine performs:
+- Behavior modelling
+- ANomaly detection
+- Trend forecasting
+- Personalized insight generation
+
+operations off chain for personlization and privacy 
+
+## 5.5 Token Layer
+The vitalsync token functions as 
+- Reward currency
+- Acess token for advanced analytics
+- Participation token for productivity challenges
+- Future governance token for protool evolution
