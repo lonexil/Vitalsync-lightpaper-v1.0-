@@ -66,7 +66,7 @@ The reward mechanics is transparent and fully auditable.
 
 ## 5. Architecture overview
 
-# 5.1 Frontend client provide acess to:
+## 5.1 Frontend client provide acess to:
 - Daily check-ins
 - Analytics dashboard
 - Streak history
@@ -108,7 +108,7 @@ The vitalsync token functions as
 - Organizations implementing verifiable wellness or productivity programs.
 - Decentralized communities conducting transparent performance challenges
 
-## Roadmap
+## 7. Roadmap
 #### Phase 1
 - Protocol foundation
 - Habit logging system
